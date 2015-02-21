@@ -1,0 +1,1274 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Untitled layer</name>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>York - East King Street &amp; George Street (Behind City Hall)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/yorkbike6/]]></description>
+			<Point>
+				<coordinates>-76.726091,39.961119,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>York - Cherry Lane (Back of Central Market)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/yorkbike5/]]></description>
+			<Point>
+				<coordinates>-76.729495,39.962825,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>York - King Street Garage</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/yorkbike4/]]></description>
+			<Point>
+				<coordinates>-76.727682,39.960866,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>York - 44 West Philadelphia Street (Nuts About Granola)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/yorkbike3/]]></description>
+			<Point>
+				<coordinates>-76.729953,39.963337,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>York - North Beaver Street (White Rose Bar &amp; Grill)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/yorkbike2/]]></description>
+			<Point>
+				<coordinates>-76.730326,39.962967,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>York - Martin Library</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/yorkbike1/]]></description>
+			<Point>
+				<coordinates>-76.724098,39.963919,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>York - South George St (Courthouse)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/yorkbike8/]]></description>
+			<Point>
+				<coordinates>-76.728226,39.963821,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>York - 1 West Market Way (Square)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/yorkbike9/]]></description>
+			<Point>
+				<coordinates>-76.728417,39.962642,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>York - 5 Brooks Robinson Way (Santander Stadium)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/yorkbike10/]]></description>
+			<Point>
+				<coordinates>-76.729275,39.967126,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>York - 90 North Newberry Street (YMCA of York)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/yorkbike12/]]></description>
+			<Point>
+				<coordinates>-76.735646,39.960855,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>York - 213 West King Street (rabbittransit Transfer Center)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/yorkbike13/]]></description>
+			<Point>
+				<coordinates>-76.731679,39.960159,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>York - 155 West Market Street (Downtown York Vistors Bureau)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/yorkbike11/]]></description>
+			<Point>
+				<coordinates>-76.73138,39.961355,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>York - 543 North Newberry Street (Graham Aquatic Center)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/yorkbike14/]]></description>
+			<Point>
+				<coordinates>-76.739792,39.968197,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>York - Emigsville Park &amp; Ride</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/yorkbike7/]]></description>
+			<Point>
+				<coordinates>-76.74152200000002,40.021669,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Carlisle - South Hanover Street &amp; Pomfret Street</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/carlislebike1/]]></description>
+			<Point>
+				<coordinates>-77.18863200000001,40.199956,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Carlisle - Liberty Avenue &amp; Hanover Street (In front of Courthouse Commons)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/carlislebike2/]]></description>
+			<Point>
+				<coordinates>-77.189234,40.20074,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Carlisle - Mulberry Avenue &amp; Hanover Street (In front of Carlisle Vault)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/carlislebike3/]]></description>
+			<Point>
+				<coordinates>-77.18898,40.202222,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Carlisle - Sadler Health Center</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/carlislebike4/]]></description>
+			<Point>
+				<coordinates>-77.188941,40.203193,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Carlisle - Dickinson Avenue &amp; Hanover Street (In front of Nancy Stamms Gallery)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/carlislebike5/]]></description>
+			<Point>
+				<coordinates>-77.189029,40.202143,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Carlisle - West High Street &amp; Pitt Street (In front of JFC Staffing)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/carlislebike6/]]></description>
+			<Point>
+				<coordinates>-77.191551,40.201730000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Carlisle - West Street &amp; West High Street (Library)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/carlislebike7/]]></description>
+			<Point>
+				<coordinates>-77.193774,40.201771,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Carlisle - West Church Avenue &amp; West Street (Center for Spiritual Formation)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/carlislebike8/]]></description>
+			<Point>
+				<coordinates>-77.193886,40.201107,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Carlisle - Church Avenue &amp; High Street (Mooney &amp; Associates)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/carlislebike9/]]></description>
+			<Point>
+				<coordinates>-77.182291,40.198949,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Carlisle - Court House Avenue (Old Courthouse)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/carlislebike10/]]></description>
+			<Point>
+				<coordinates>-77.189541,40.200906,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Carlisle - Walnut Street &amp; South West Street (YMCA)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/carlislebike11/]]></description>
+			<Point>
+				<coordinates>-77.194264,40.196457,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Carlisle - 26 South G Street (YWCA)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/carlislebike12/]]></description>
+			<Point>
+				<coordinates>-77.19514,40.214837,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Carlisle Regional Hospital</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/carlislebike13/]]></description>
+			<Point>
+				<coordinates>-77.199062,40.203365,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Gettysburg - Kennies Market</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/gettysburgbike1/]]></description>
+			<Point>
+				<coordinates>-77.235803,39.830009000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Gettysburg - Adams County Library</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/gettysburgbike2/]]></description>
+			<Point>
+				<coordinates>-77.231011,39.829092,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Gettysburg - Entrance of the Hospital</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/gettysburgbike3/]]></description>
+			<Point>
+				<coordinates>-77.234964,39.824408,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Gettysburg - Rear of the Hospital</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/gettysburgbike4/]]></description>
+			<Point>
+				<coordinates>-77.233284,39.824483,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Gettysburg - YWCA</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/gettysburgbike5/]]></description>
+			<Point>
+				<coordinates>-77.246397,39.830542,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Gettysburg - Harrisburg Area Community College</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/gettysburgbike6/]]></description>
+			<Point>
+				<coordinates>-77.2233,39.839067,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Gettysburg Recreation Park</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/gettysburgbike7/]]></description>
+			<Point>
+				<coordinates>-77.238638,39.822698,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Gettysburg Recreation Park (Biser Trail)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/gettysburgbike8/]]></description>
+			<Point>
+				<coordinates>-77.238393,39.822984,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Gettysburg Borough Parking Garage</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/gettysburgbike9/]]></description>
+			<Point>
+				<coordinates>-77.230895,39.831538,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Gettysburg - Transfer Station</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/gettysburgbike10/]]></description>
+			<Point>
+				<coordinates>-77.230547,39.83222,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Gettysburg - Magisterial Office</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/gettysburgbike11/]]></description>
+			<Point>
+				<coordinates>-77.230188,39.82973,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Gettysburg - 7-Eleven</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/gettysburgbike12/]]></description>
+			<Point>
+				<coordinates>-77.23320900000002,39.830987,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Lebanon - Bus Transfer Station (Behind HACC)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/lebanonbike1/]]></description>
+			<Point>
+				<coordinates>-76.422379,40.340632,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Lebanon - Entrance of County Office</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/lebanonbike2/]]></description>
+			<Point>
+				<coordinates>-76.42373,40.332985,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Lebanon - Rear of County Office</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/lebanonbike3/]]></description>
+			<Point>
+				<coordinates>-76.422515,40.33356400000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Lebanon Valley Chamber of Commerce </name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/lebanonbike4/]]></description>
+			<Point>
+				<coordinates>-76.421092,40.339286,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Lebanon - Entrance of City Office</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/lebanonbike5/]]></description>
+			<Point>
+				<coordinates>-76.42357100000001,40.332573,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Lebanon - 210 North 7th Street (YMCA)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/lebanonbike6/]]></description>
+			<Point>
+				<coordinates>-76.423002,40.342484,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Lebanon - 125 Cumberland Street (HACC - Back of Building near employee parking)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/lebanonbike7/]]></description>
+			<Point>
+				<coordinates>-76.422801,40.33981,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Reading - City Hall - 815 Washington Street (Right Side of Entrance)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/readingbike1/]]></description>
+			<Point>
+				<coordinates>-75.921805,40.33699,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Reading - City Hall - 815 Washington Street (Left Side of Entrance)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/readingbike2/]]></description>
+			<Point>
+				<coordinates>-75.921329,40.336934,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Reading - City Hall - 815 Washington Street (8th Street Side of Building)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/readingbike3/]]></description>
+			<Point>
+				<coordinates>-75.921972,40.337179,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Reading - Court Street - Next to Pace Institute (Across the street from Berks County Courthouse Entrance)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/readingbike4/]]></description>
+			<Point>
+				<coordinates>-75.924972,40.336198,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Reading - Berks County Services Center - Reed Street</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/readingbike5/]]></description>
+			<Point>
+				<coordinates>-75.924891,40.336581,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Reading - Pennsylvania State Office Building - Off of Cherry Street (West Side of Building)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/readingbike6/]]></description>
+			<Point>
+				<coordinates>-75.924929,40.33438600000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Reading Parking Authority Garage - Franklin Street (Under BARTA Transportation Center) Accessible from either Franklin or Cherry St.)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/readingbike7/]]></description>
+			<Point>
+				<coordinates>-75.92273,40.333594,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Reading - BARTA Transportation Center - Corner of 8th and Cherry Streets (Outside Reading Police Substation)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/readingbike8/]]></description>
+			<Point>
+				<coordinates>-75.922174,40.334229,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Reading Public Library - 100 South 5th Street (Right Side of Entrance)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/readingbike9/]]></description>
+			<Point>
+				<coordinates>-75.928152,40.333551,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Reading - Peanut Bar - 324 Penn Street - rear</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/readingbike10/]]></description>
+			<Point>
+				<coordinates>-75.930555,40.334981,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Reading - American House Building - South 4th Street</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/readingbike11/]]></description>
+			<Point>
+				<coordinates>-75.929903,40.334971,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Reading - Public Coutryard - 401 Penn Street (East Side of CAN Plaza)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/readingbike12/]]></description>
+			<Point>
+				<coordinates>-75.92889,40.335622,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Reading - Santander Plaza - 450 Penn Street (Behind Building)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/readingbike13/]]></description>
+			<Point>
+				<coordinates>-75.928556,40.3347,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Reading - BARTA Bus Shelter - 510 Penn Street (Right of Shelter)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/readingbike14/]]></description>
+			<Point>
+				<coordinates>-75.927315,40.335138,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Reading - Public Courtyard - 15 N 6th Street (North Side of Building)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/readingbike15/]]></description>
+			<Point>
+				<coordinates>-75.925504,40.335697,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Harrisburg - 300 Market Street (In front of Market/Market)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/harrisburgbike1/]]></description>
+			<Point>
+				<coordinates>-76.880485,40.261182,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Harrisburg - Midtown</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/harrisburgbike2/]]></description>
+			<Point>
+				<coordinates>-76.889091,40.26967,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Harrisburg - Verbeke Street (Broad Street Market)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/harrisburgbike3/]]></description>
+			<Point>
+				<coordinates>-76.8881,40.269739,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Harrisburg - Verbeke Street &amp; 6th Street (Broad Street Market)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/harrisburgbike4/]]></description>
+			<Point>
+				<coordinates>-76.886551,40.270515,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Harrisburg - 372 North Street (Keystone Building by Garage Entrance)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/harrisburgbike5/]]></description>
+			<Point>
+				<coordinates>-76.884104,40.265832,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Harrisburg - North 3rd &amp; State Street (Under Construction)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/harrisburgbike6/]]></description>
+			<Point>
+				<coordinates>-76.88509600000002,40.263714,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Harrisburg - Capitol Complex (Right of Building)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/harrisburgbike7/]]></description>
+			<Point>
+				<coordinates>-76.884109,40.26445,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Harrisburg - 2nd Street &amp; State Street (Little Amps Coffee Shop)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/harrisburgbike8/]]></description>
+			<Point>
+				<coordinates>-76.886855,40.262957,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Harrisburg - 2nd and Cranberry Street</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/harrisburgbike9/]]></description>
+			<Point>
+				<coordinates>-76.884513,40.261418,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Harrisburg - 3rd South 2nd Street (Dauphin County Admin. Office)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/harrisburgbike10/]]></description>
+			<Point>
+				<coordinates>-76.881874,40.259617,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Harrisburg - Chestnut Street - Transportation Center (Train Station)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/harrisburgbike11/]]></description>
+			<Point>
+				<coordinates>-76.87847,40.262099,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Harrisburg - Walnut Street (Strawberry Square)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/harrisburgbike12/]]></description>
+			<Point>
+				<coordinates>-76.881843,40.262086,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Harrisburg - 303 Market Street (by Plum Sport)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/harrisburgbike13/]]></description>
+			<Point>
+				<coordinates>-76.88074,40.261061,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Harrisburg - North 3rd Street (by Plum Sport)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/harrisburgbike14/]]></description>
+			<Point>
+				<coordinates>-76.881105,40.261061,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Harrisburg - 11 North 3rd Street (Entrance to Strawberry Square)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/harrisburgbike15/]]></description>
+			<Point>
+				<coordinates>-76.881422,40.261238,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Harrisburg - 333 Market Street</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/harrisburgbike16/]]></description>
+			<Point>
+				<coordinates>-76.879881,40.261883,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Harrisburg - South 2nd &amp; Blackberry Streets (Transfer Center, Right of Shelters)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/harrisburgbike17/]]></description>
+			<Point>
+				<coordinates>-76.880954,40.25946,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Harrisburg - Court Street (10 Separate Racks in Alley)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/harrisburgbike18/]]></description>
+			<Point>
+				<coordinates>-76.880976,40.260183,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Harrisburg - South 3rd Street</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/harrisburgbike19/]]></description>
+			<Point>
+				<coordinates>-76.880362,40.260717,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Harrisburg - 351 Chestnut Street (Housing Authority)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/harrisburgbike20/]]></description>
+			<Point>
+				<coordinates>-76.878319,40.261012,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Harrisburg - 320 Chestnut Street (International House)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/harrisburgbike21/]]></description>
+			<Point>
+				<coordinates>-76.878873,40.26054,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Harrisburg - 400 Market Street (Rachel Carson Building)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/harrisburgbike22/]]></description>
+			<Point>
+				<coordinates>-76.879405,40.262394,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Harrisburg - Locust Street (Post Office)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/harrisburgbike23/]]></description>
+			<Point>
+				<coordinates>-76.882898,40.261808,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Harrisburg - Pinnacle Hospital (under Building)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/harrisburgbike24/]]></description>
+			<Point>
+				<coordinates>-76.880568,40.258585,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Harrisburg - Pinnacle Hospital (Harrisburg Campus by Entrance)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/harrisburgbike25/]]></description>
+			<Point>
+				<coordinates>-76.879933,40.25777,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Harrisburg - 251 Verbeke Street (2nd City Church)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/harrisburgbike26/]]></description>
+			<Point>
+				<coordinates>-76.8901,40.269094,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Harrisburg - Susquehanna &amp; Reilly Streets</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/harrisburgbike27/]]></description>
+			<Point>
+				<coordinates>-76.891087,40.271412,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Harrisburg - 1500 North 3rd Street (HACC)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/harrisburgbike28/]]></description>
+			<Point>
+				<coordinates>-76.890812,40.272165,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Harrisburg - 2nd Street and Locust Street (Infront of Brinjac &amp; Ameritrade)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/harrisburgbike29/]]></description>
+			<Point>
+				<coordinates>-76.883804,40.260851,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Harrisburg - Walnut Street (Old City Hall Apartments)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/harrisburgbike30/]]></description>
+			<Point>
+				<coordinates>-76.880525,40.263528,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Harrisburg - Walnut Street (Dauphin County Library)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/harrisburgbike31/]]></description>
+			<Point>
+				<coordinates>-76.883982,40.259623,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Harrisburg - Front Street (Housing Finance Agency)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/harrisburgbike32/]]></description>
+			<Point>
+				<coordinates>-76.885524,40.260178,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Harrisburg - Front Street and Market Street (Keystone Plaza)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/harrisburgbike33/]]></description>
+			<Point>
+				<coordinates>-76.883166,40.258758,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Harrisburg - 4th Street and Market Street</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/harrisburgbike34/]]></description>
+			<Point>
+				<coordinates>-76.879583,40.26183,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Harrisburg - 3rd Street (Vartan Parking Lot)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/harrisburgbike35/]]></description>
+			<Point>
+				<coordinates>-76.883566,40.262594,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Lancaster - Corner of Duke and King Streets</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/lancasterbike1/]]></description>
+			<Point>
+				<coordinates>-76.303581,40.037732,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Lancaster - Corner of Prince and Vine Streets</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/lancasterbike2/]]></description>
+			<Point>
+				<coordinates>-76.307243,40.036322,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Lancaster - Prince and Mifflin Streets</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/lancasterbike3/]]></description>
+			<Point>
+				<coordinates>-76.307702,40.036924000000006,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Lancaster - Corner of Prince and Grant Streets</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/lancasterbike4/]]></description>
+			<Point>
+				<coordinates>-76.307531,40.03829,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Lancaster - Corner of Prince and Chestnut Streets</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/lancasterbike5/]]></description>
+			<Point>
+				<coordinates>-76.308202,40.040915,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Lancaster - Corner of Queen and Chestnut Streets</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/lancasterbike6/]]></description>
+			<Point>
+				<coordinates>-76.306166,40.041056,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Lancaster - Corner of Queen and Vine Streets</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/lancasterbike7/]]></description>
+			<Point>
+				<coordinates>-76.305348,40.03629,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Lancaster - Corner of Duke and Vine Streets</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/lancasterbike8/]]></description>
+			<Point>
+				<coordinates>-76.303109,40.036613,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Lancaster County Government Center</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/lancasterbike9/]]></description>
+			<Point>
+				<coordinates>-76.303762,40.03879,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Lancaster - 125 North Duke Street (Public Library)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/lancasterbike10/]]></description>
+			<Point>
+				<coordinates>-76.303949,40.040626,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Lancaster - 333 North Arch Street (Southeast Lancaster Health Services)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/lancasterbike11/]]></description>
+			<Point>
+				<coordinates>-76.310232,40.04329200000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Lancaster - 625 South Duke Street (Southeast Lancaster Health Services)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/lancasterbike12/]]></description>
+			<Point>
+				<coordinates>-76.297204,40.031886,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Lancaster Rotary Park</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/lancasterbike13/]]></description>
+			<Point>
+				<coordinates>-76.309605,40.045627,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Lancaster - 265 Harrisburg Avenue (YMCA)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/lancasterbike14/]]></description>
+			<Point>
+				<coordinates>-76.311179,40.047249,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Lancaster - North Queen Street (Binns Park)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/lancasterbike15/]]></description>
+			<Point>
+				<coordinates>-76.306702,40.040602,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Lancaster County Central Park (Pool) - Rockford Road</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/lancasterbike16/]]></description>
+			<Point>
+				<coordinates>-76.296881,40.026011,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Lancaster - 6th Ward Park</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/lancasterbike17/]]></description>
+			<Point>
+				<coordinates>-76.292798,40.051864,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Lancaster - 110 North Lime Street (YWCA Lancaster)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/lancasterbike18/]]></description>
+			<Point>
+				<coordinates>-76.301728,40.040376,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Lancaster - 210 South Prince Street (Water Street Ministries)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/lancasterbike19/]]></description>
+			<Point>
+				<coordinates>-76.307101,40.034226,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Lancaster - 15 North Prince Street (Prince Street Café)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/lancasterbike20/]]></description>
+			<Point>
+				<coordinates>-76.307692,40.038194,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Lancaster - 25 North Queen Street (Isaac's Deli )</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/lancasterbike21/]]></description>
+			<Point>
+				<coordinates>-76.305691,40.038735,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Lancaster - CVS Harrisburg Pike</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/lancasterbike22/]]></description>
+			<Point>
+				<coordinates>-76.317235,40.049846,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Lancaster - 225 North Queen Street (Queen Street Bus Station)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/lancasterbike23/]]></description>
+			<Point>
+				<coordinates>-76.305907,40.041655,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Lancaster - 111 North Prince Street ( Prince Street Garage @ Orange Street Entrance)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/lancasterbike24/]]></description>
+			<Point>
+				<coordinates>-76.307356,40.039404,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Lancaster - Bus Terminal N Queen &amp; West Chestnut</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/lancasterbike25/]]></description>
+			<Point>
+				<coordinates>-76.305364,40.041584,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Lancaster - 17 North Prince Street</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/lancasterbike26/]]></description>
+			<Point>
+				<coordinates>-76.307772,40.03824,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Lancaster - Marion Street (City Offices)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/lancasterbike27/]]></description>
+			<Point>
+				<coordinates>-76.304812,40.040236,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Lancaster - 402 North Prince Street (TW Ponessa)</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/lancasterbike28/]]></description>
+			<Point>
+				<coordinates>-76.308935,40.044272,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Lancaster - Ware Center</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/lancasterbike29/]]></description>
+			<Point>
+				<coordinates>-76.30809,40.038779,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<styleUrl>#icon-22</styleUrl>
+			<name>Lancaster - Elizabethtown Train Station</name>
+			<ExtendedData>
+			</ExtendedData>
+			<description><![CDATA[Click here for more information, http://pacommuterservices.org/lancasterbike30/]]></description>
+			<Point>
+				<coordinates>-76.61267599999996,40.146989,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-22'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>

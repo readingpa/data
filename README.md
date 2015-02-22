@@ -1,3 +1,2 @@
 # data
-Open Data Sources
-
+Open data sources published on http://data.readingpa.gov.
